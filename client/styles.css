@@ -1,0 +1,11 @@
+body>* {
+    margin: 20px;
+}
+
+.purple {
+    background-color: rgb(88, 2, 159);
+}
+
+.not-purple {
+    background-color: rgb(156, 176, 83);
+}
